@@ -1,1 +1,1 @@
-# portfolio
+This is my first project developed while learning how to code.
